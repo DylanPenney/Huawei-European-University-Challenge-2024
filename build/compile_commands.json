@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/dylan/TechArena/build",
+  "command": "/usr/bin/clang++  -I/Users/dylan/TechArena/CardinalityEstimation/include -I/Users/dylan/TechArena/CardinalityEstimation/include/common -I/Users/dylan/TechArena/CardinalityEstimation/include/executer -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/agorize_playground.dir/CardinalityEstimation/src/CardinalityEstimation.cpp.o -c /Users/dylan/TechArena/CardinalityEstimation/src/CardinalityEstimation.cpp",
+  "file": "/Users/dylan/TechArena/CardinalityEstimation/src/CardinalityEstimation.cpp",
+  "output": "CMakeFiles/agorize_playground.dir/CardinalityEstimation/src/CardinalityEstimation.cpp.o"
+},
+{
+  "directory": "/Users/dylan/TechArena/build",
+  "command": "/usr/bin/clang++  -I/Users/dylan/TechArena/CardinalityEstimation/include -I/Users/dylan/TechArena/CardinalityEstimation/include/common -I/Users/dylan/TechArena/CardinalityEstimation/include/executer -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/agorize_playground.dir/CardinalityEstimation/src/DataExecuterDemo.cpp.o -c /Users/dylan/TechArena/CardinalityEstimation/src/DataExecuterDemo.cpp",
+  "file": "/Users/dylan/TechArena/CardinalityEstimation/src/DataExecuterDemo.cpp",
+  "output": "CMakeFiles/agorize_playground.dir/CardinalityEstimation/src/DataExecuterDemo.cpp.o"
+},
+{
+  "directory": "/Users/dylan/TechArena/build",
+  "command": "/usr/bin/clang++  -I/Users/dylan/TechArena/CardinalityEstimation/include -I/Users/dylan/TechArena/CardinalityEstimation/include/common -I/Users/dylan/TechArena/CardinalityEstimation/include/executer -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/agorize_playground.dir/CardinalityEstimation/src/main.cpp.o -c /Users/dylan/TechArena/CardinalityEstimation/src/main.cpp",
+  "file": "/Users/dylan/TechArena/CardinalityEstimation/src/main.cpp",
+  "output": "CMakeFiles/agorize_playground.dir/CardinalityEstimation/src/main.cpp.o"
+}
+]

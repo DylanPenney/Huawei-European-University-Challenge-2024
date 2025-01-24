@@ -1,0 +1,3 @@
+/Users/dylan/TechArena/build/CMakeFiles/agorize_playground.dir
+/Users/dylan/TechArena/build/CMakeFiles/edit_cache.dir
+/Users/dylan/TechArena/build/CMakeFiles/rebuild_cache.dir
