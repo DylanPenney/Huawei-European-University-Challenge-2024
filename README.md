@@ -8,7 +8,7 @@ mkdir build
 cd build
 cmake ..
 make
-./main
+./agorize_playground
 ```
 
 # Notes
